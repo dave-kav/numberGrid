@@ -12,4 +12,4 @@ To run the unit tests, again open the project root in your terminal and run `sbt
 
 ## Author
 Dave Kavanagh
-david.j.kavanagh@mycit.ie
+dave.kavanagh87@gmail.com
